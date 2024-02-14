@@ -1,3 +1,3 @@
 export default function IndexRoute() {
-  return <div>TOPページ</div>;
+  return <div>TOページ</div>;
 }
